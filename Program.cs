@@ -10,8 +10,11 @@ namespace Code_Challenge__SmooshedMorseCode
     {
         static void Main(string[] args)
         {
-           // EasyChallenge.Challenge();
-           // EasyChallenge.Bonus();
+            // EasyChallenge.Challenge();
+            // EasyChallenge.Bonus();
+
+            //IntermediateChallenge.Challenge();
+            IntermediateChallenge.Bonus();
         }
     }
 }

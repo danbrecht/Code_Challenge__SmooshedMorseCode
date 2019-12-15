@@ -9,7 +9,7 @@ namespace Code_Challenge__SmooshedMorseCode
 {
     public static class MorseCodeUtil
     {
-        private static Dictionary<string, string> dictCodeToChar = InitMorseCode();
+        public static Dictionary<string, string> dictCodeToChar = InitMorseCode();
         private static Dictionary<char, string> dictCharToCode;
 
         private static Dictionary<string, string> InitMorseCode()
